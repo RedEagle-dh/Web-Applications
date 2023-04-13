@@ -1,0 +1,57 @@
+.mono {
+    font-family: monospace;
+}
+
+img {
+    width: 500px;
+    border-radius: 8px;
+}
+
+.bg {
+    background-color: #2C3333;
+    color: #CBE4DE;
+}
+
+b {
+    font-size: 24px;
+}
+
+.title {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    
+}
+
+.contentalign {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    gap: 4px;
+}
+
+.category {
+    color: #0E8388;
+}
+
+.rightfloatation {
+    flex: 1;
+    float: right;
+    align-items: right;
+    align-content: right;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.container {
+    display: flex;
+}
+
+.content {
+    flex: 1;
+    text-align: right;
+    margin-right: 1rem;
+}
